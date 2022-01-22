@@ -1,1 +1,217 @@
-/* No CSS *//*# sourceMappingURL=index.css.map */
+
+
+
+
+
+
+
+
+
+
+*{
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+body{
+    background-color: rgb(20, 53, 61);
+    padding-top: 120px;
+}
+
+.items_wrapper{
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+    .item_inner{
+        border-radius: 10px;
+        display: flex;
+justify-content: center;
+align-items: center;
+   position: relative;
+   height: 220px;
+  width: 370px;
+  }
+p{
+    background-color: rgb(20, 53, 61);
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+
+.item_1{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_1:hover {
+    background-image: url("./vendor/img/i-angus.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_2{
+    background-image: url("./vendor/img/grey_image.jpg"); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_2:hover {
+    background-image: url("./vendor/img/i-aurora.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_3{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_3:hover {
+    background-image: url("./vendor/img/i-bride.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_4{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_4:hover {
+    background-image: url("./vendor/img/i-d.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_5{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_5:hover {
+    background-image: url("./vendor/img/i-dali.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_6{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_6:hover {
+    background-image: url("./vendor/img/i-huitzi.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_7{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_7:hover {
+    background-image: url("./vendor/img/i-man.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_8{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_8:hover {
+    background-image: url("./vendor/img/i-xrays.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_9{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_9:hover {
+    background-image: url("./vendor/img/i-v2.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_10{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_10:hover {
+    background-image: url("./vendor/img/i-v3.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
+.item_11{
+    background-image: url("./vendor/img/grey_image.jpg");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+    transition-duration: 1s;
+}
+.item_11:hover {
+    background-image: url("./vendor/img/i-worms.png");  
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;   
+}
+
+
